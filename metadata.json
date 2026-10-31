@@ -1,0 +1,6 @@
+{
+  "name": "Retool Master Report Studio",
+  "description": "AI-Powered SEO Client Report Generator for Freelancers, Consultants & Agencies",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
